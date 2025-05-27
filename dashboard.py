@@ -63,8 +63,8 @@ if section == "User Dashboard":
     with col1:
         st.image("https://www.w3schools.com/howto/img_avatar.png", width=100)
     with col2:
-        st.subheader("Welcome, John Doe!")
-        st.text("Email: john@example.com")
+        st.subheader("Welcome, Abarna!")
+        st.text("Email: Aparna@example.com")
         st.text("Member since: Jan 2024")
 
     st.divider()
